@@ -9,7 +9,7 @@ class Config(object):
     sudo_users = "5696053228", "6781100064"
     GROUP_ID = -1002246683431
     TOKEN = "7296531189:AAFIBo4Fh-DAzP7OipnMDrO17dl_oEMApko"
-    mongo_url = "mongodb+srv://Shiki:xnp9czdVYgpT4KBE@shiki.smrp72r.mongodb.net/"
+    mongo_url = "mongodb+srv://Shiki:xnp9czdVYgpT4KBE@shiki.smrp72r.mongodb.net/WaifuCatcher?retryWrites=true&w=majority&ssl=true"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "NandhaChat"
     UPDATE_CHAT = "namupdates"
