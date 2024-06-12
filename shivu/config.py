@@ -1,17 +1,20 @@
+
+import os
+
 class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "6765826972"
-    sudo_users = "6845325416", "6765826972"
-    GROUP_ID = -1002133191051
-    TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
-    mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
+    OWNER_ID = '6781100064'
+    sudo_users = "5696053228", "6781100064"
+    GROUP_ID = -1002246683431
+    TOKEN = "7296531189:AAFIBo4Fh-DAzP7OipnMDrO17dl_oEMApko"
+    mongo_url = "mongodb+srv://Shiki:xnp9czdVYgpT4KBE@shiki.smrp72r.mongodb.net/"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
-    SUPPORT_CHAT = "Collect_em_support"
-    UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
-    CHARA_CHANNEL_ID = "-1002133191051"
+    SUPPORT_CHAT = "NandhaChat"
+    UPDATE_CHAT = "namupdates"
+    BOT_USERNAME = "NamoHaremBot"
+    CHARA_CHANNEL_ID = "-1002186861561"
     api_id = 26626068
     api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
 
