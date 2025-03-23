@@ -1,5 +1,4 @@
 motor
-aiohttp
 requests
 python-telegram-bot==20.6
 aiohttp
