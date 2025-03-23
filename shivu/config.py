@@ -6,7 +6,7 @@ class Config(object):
     sudo_users = "7453473569"
     GROUP_ID = "-1002162699434"
     TOKEN = "7713565665:AAHtXfP9dW2HG3DS5NOvG8JPnnpR2bXBAAM"
-    mongo_url = "mangodb+srv://mangalsg27: lDA08mAApf42eLRo@cluster0.rapan.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    mongo_url = "mongodb+srv://mangalsg27: lDA08mAApf42eLRo@cluster0.rapan.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     PHOTO_URL = ["https://telegra.ph/file/e82d9ba84396bf1b1a9ca.jpg", "https://telegra.ph/file/e370ab1aeea76df6024c8.jpg"]
     SUPPORT_CHAT = "pull_your_waifu"
     UPDATE_CHAT = "pull_your_waifu"
