@@ -12,9 +12,9 @@ class Config(object):
     mongo_url = "mongodb+srv://mangalsg27:lDA08mAApf42eLRo@cluster0.rapan.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "NandhaChat"
-    UPDATE_CHAT = "namupdates"
+    UPDATE_CHAT = "pull_your_waifu"
     BOT_USERNAME = "NamoHaremBot"
-    CHARA_CHANNEL_ID = "-1002186861561"
+    CHARA_CHANNEL_ID = "-1002521099319"
     api_id = 26626068
     api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
 
