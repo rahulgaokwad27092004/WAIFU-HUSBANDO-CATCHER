@@ -5,11 +5,11 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = '6781100064'
-    sudo_users = "5696053228", "6781100064"
+    OWNER_ID = '7453473569'
+    sudo_users = "7453473569", "1890903731"
     GROUP_ID = -1002246683431
-    TOKEN = "7296531189:AAFIBo4Fh-DAzP7OipnMDrO17dl_oEMApko"
-    mongo_url = "mongodb+srv://Shiki:xnp9czdVYgpT4KBE@shiki.smrp72r.mongodb.net/?retryWrites=true&w=majority"
+    TOKEN = "7713565665:AAHtXfP9dW2HG3DS5NOvG8JPnnpR2bXBAAM"
+    mongo_url = "mongodb+srv://mangalsg27:lDA08mAApf42eLRo@cluster0.rapan.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "NandhaChat"
     UPDATE_CHAT = "namupdates"
