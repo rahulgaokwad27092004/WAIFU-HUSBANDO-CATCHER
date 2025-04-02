@@ -16,7 +16,7 @@ class Config(object):
     BOT_USERNAME = "NamoHaremBot"
     CHARA_CHANNEL_ID = "-1002521099319"
     api_id = 26626068
-    api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
+    api_hash = "cc8bfa305e9a3f5000603efc79020301"
 
     
 class Production(Config):
